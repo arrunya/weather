@@ -20,6 +20,20 @@ body {
 }
 
 .card{
+    display: none;
+    margin: auto;
+    opacity: 0.85;
+}
+
+.card-body{
+    text-align: center;
+    opacity: 1;
+}
+
+.col-lg-6{
     margin: auto;
 }
 
+#search{
+    margin-left: 300px;
+}
